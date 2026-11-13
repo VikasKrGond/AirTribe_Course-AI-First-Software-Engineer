@@ -1,0 +1,124 @@
+/Users/vikaskumargond/Library/Java/JavaVirtualMachines/openjdk-25.0.2/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/plugins/java/lib/idea_rt.jar=56170 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/vikaskumargond/Documents/AirTribe_Projects/Campus Cafe/out/production/Campus Cafe com.campus.cafe.Main
+
+ --- Campus Cafe Inventory---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+Choose: 1
+Name: Tea
+Price: 12.19
+Quantity: 23
+
+ --- Campus Cafe Inventory---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+Choose: 2
+1 Tea | 12.19 | 23
+
+ --- Campus Cafe Inventory---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+Choose: 1
+Name: Pasta
+Price: 230.45
+Quantity: 5
+
+ --- Campus Cafe Inventory---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+Choose: 2
+1 Tea | 12.19 | 23
+2 Pasta | 230.45 | 5
+
+ --- Campus Cafe Inventory---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+Choose: 3
+1432.62
+
+ --- Campus Cafe Inventory---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+Choose: 4
+121.32
+Rounded down: 121
+
+ --- Campus Cafe Inventory---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+Choose: 5
+Product number: 2
+Quantity to add: 12
+
+ --- Campus Cafe Inventory---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+Choose: 2
+1 Tea | 12.19 | 23
+2 Pasta | 230.45 | 17
+
+ --- Campus Cafe Inventory---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+Choose: 6
+Product number: 1
+
+ --- Campus Cafe Inventory---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+Choose: 2
+1 Tea | 12.19 | 23
+2 Pasta | 230.45 | 17
+3 Tea | 12.19 | 23
+
+ --- Campus Cafe Inventory---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+Choose: 0
+Goodbye!
+Products created in total: 3
+
+Process finished with exit code 0
